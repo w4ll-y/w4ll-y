@@ -1,4 +1,12 @@
-<div align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=600&size=30&duration=4000&pause=1000&color=F8F8F2&width=435&lines=Hi%2C+I'm+w4ll-y+%F0%9F%91%8B;Hi%2C+I'm+Wallacy%F0%9F%91%8B" alt="Typing SVG" /></a></div>
+<div align='center'>
+  <a href="https://git.io/typing-svg" align='center' width=1000><img width=300 align='center' src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=4000&pause=1500&color=F7F4F4&width=305&lines=Hi%2C+I'm+w4ll-y%F0%9F%91%8B+;Hi%2C+I'm+Wallacy%F0%9F%91%8B+" alt="Typing SVG" /></a>
+
+  ![Followers](https://img.shields.io/github/followers/w4ll-y?label=Followers&style=flat) &nbsp;
+  ![Stars](https://img.shields.io/github/stars/w4ll-y?label=Stars&style=flat) &nbsp;
+  ![Profile Views](https://komarev.com/ghpvc/?username=w4ll-y&color=blue&style=flat) &nbsp;
+</div>
+
+
 
 # 📖 About Me
 
@@ -11,7 +19,7 @@
           return solution 
   ```
 
-# Skills
+# ⚡ Skills
 
 ### Lenguages
 
@@ -33,4 +41,22 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=w4ll-y)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w4ll-y&layout=compact)
 
+</div>
+
+<h1></h1>
+
+<h3 align='center'>Get in touch</h3>
+
+<div align='center'>
+  <a href='https://www.linkedin.com/in/wallacy-ramalho-dev/'>
+  <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />
+  </a>
+  &nbsp;
+  <a href='mailto:seuemail@exemplo.com'>
+  <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />
+  </a>
+  &nbsp;
+  <a href='https://www.instagram.com/j_w4ll_y/'>
+  <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' />
+  </a>
 </div>
