@@ -1,5 +1,5 @@
 <div align='center'>
-  <a href="https://git.io/typing-svg" align='center' width=1000><img width=300 align='center' src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=4000&pause=1500&color=F7F4F4&width=305&lines=Hi%2C+I'm+w4ll-y%F0%9F%91%8B+;Hi%2C+I'm+Wallacy%F0%9F%91%8B+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg" align='center' width=1000><img width=300 align='center' src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=4000&pause=1500&color=F7F4F4&width=305&lines=%E3%85%A4%E3%85%A4+Hi%2C+I'm+w4ll-y%F0%9F%91%8B+;Hi%2C+I'm+Wallacy%F0%9F%91%8B+" alt="Typing SVG" /></a>
 
   ![Followers](https://img.shields.io/github/followers/w4ll-y?label=Followers&style=flat) &nbsp;
   ![Stars](https://img.shields.io/github/stars/w4ll-y?label=Stars&style=flat) &nbsp;
