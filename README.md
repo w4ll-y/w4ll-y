@@ -1,6 +1,6 @@
 <div align='center'>
-  <a href="https://git.io/typing-svg" align='center' width=1000><img width=300 align='center' src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=4000&pause=1500&color=F7F4F4&width=305&lines=%E3%85%A4%E3%85%A4+Hi%2C+I'm+w4ll-y%F0%9F%91%8B+;Hi%2C+I'm+Wallacy%F0%9F%91%8B+" alt="Typing SVG" /></a>
-
+  <img src="https://typingsvg.vercel.app/api/svg?text=Hello%21+I%27m+w4ll-y%F0%9F%91%8B%3BHi%21+I%27m+Wallacy%F0%9F%91%8B&font=Consolas&color=%23f8f8f2&width=1000&height=100&typingSpeed=0.15&pause=2000&letterSpacing=0.1&repeat=true&backgroundColor=%23282a36&fontSize=30&center=true&vCenter=true&border=true&cursorStyle=straight&deleteAfter=true&deleteSpeed=0.08" alt="Typing SVG" />
+  
   ![Followers](https://img.shields.io/github/followers/w4ll-y?label=Followers&style=flat) &nbsp;
   ![Stars](https://img.shields.io/github/stars/w4ll-y?label=Stars&style=flat) &nbsp;
   ![Profile Views](https://komarev.com/ghpvc/?username=w4ll-y&color=blue&style=flat) &nbsp;
@@ -39,6 +39,7 @@
 <div align='left'>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=w4ll-y)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w4ll-y&layout=compact)
 
 </div>
